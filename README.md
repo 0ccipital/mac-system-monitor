@@ -183,3 +183,6 @@ see [CONTRIBUTING.md](CONTRIBUTING.md) and [DESIGN.md](DESIGN.md) §5.
 
 Released into the public domain under [The Unlicense](LICENSE). Do whatever you
 want with it.
+
+## AI
+Made with Claude Code Opus 4.8
